@@ -69,4 +69,4 @@ TwinLore does **not** collect usage data or personal information.
 Only API calls for image scraping and beta license validation.
 
 © 2026 Mert Aslantürk. All rights reserved. For personal beta testing only.
-
+Contact: twinlore.soft@gmail.com
