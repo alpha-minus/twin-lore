@@ -18,10 +18,11 @@ After discovering DS/3DS games for the first time, I wanted every emulator or co
 
 - Switching constantly between browser tabs or apps 
 - One-tap Map ↔ Guide switching
+- Retro games with no map marking system
 - Losing track of previously searched guides  
 - Forgetting where you left off in a guide  
-- Managing maps, bookmarks, and media efficiently  
-- **one-button second-display sleep**  
+- Managing maps, bookmarks, and media efficiently
+- **One-button second-display sleep**  
 
 ---
 
